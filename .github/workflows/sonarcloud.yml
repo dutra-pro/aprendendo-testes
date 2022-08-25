@@ -1,8 +1,7 @@
 name: SonarCloud Scanner
 on:
   push:
-    branches:
-      - '**/README.md'
+    branches: ['*']
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
@@ -22,10 +21,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}  # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-      - name: Sonar Build Breaker
+      - name: SonarBuildBreaker PUSH
+        if: ${{ github.event_name != 'pull_request' }}
         uses: jkumar19/sonar-build-breaker@3.0.0
         with:
           sonar_url: "https://sonarcloud.io"
-          sonar_branch: ${{ github.ref_name }}
+          sonar_branch: ${{ github.ref_type }}
+          sonar_token: ${{ secrets.SONAR_TOKEN }}
+          project_key: "dutra-pro_aprendendo-testes"
+      - name: SonarBuildBreaker PR
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: jkumar19/sonar-build-breaker@3.0.0
+        with:
+          sonar_url: "https://sonarcloud.io"
+          sonar_branch: ${{ github.head_ref }}
           sonar_token: ${{ secrets.SONAR_TOKEN }}
           project_key: "dutra-pro_aprendendo-testes"
