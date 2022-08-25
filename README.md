@@ -24,27 +24,27 @@
 
 ### Sonacloud
 
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=bugs)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=bugs)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=coverage)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=coverage)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=wesleydutrads_aprendendo&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=dutra-pro_aprendendo-testes&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=wesleydutrads_aprendendo)
 
 ## Description
 
