@@ -25,6 +25,6 @@ jobs:
         uses: jkumar19/sonar-build-breaker@3.0.0
         with:
           sonar_url: "https://sonarcloud.io"
-          sonar_branch: ${GITHUB_REF##*/}
+          sonar_branch: ${{ github.head_ref }}
           sonar_token: ${{ secrets.SONAR_TOKEN }}
           project_key: "dutra-pro_aprendendo-testes"
