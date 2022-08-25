@@ -1,8 +1,7 @@
 name: SonarCloud Scanner
 on:
   push:
-    branches:
-      - '**/README.md'
+    branches: ['*']
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
